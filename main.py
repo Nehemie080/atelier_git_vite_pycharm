@@ -1,2 +1,2 @@
 if __name__ == '__main__':
-    print_hi('Test GitHub')
+    print_hi('Test reussi')
